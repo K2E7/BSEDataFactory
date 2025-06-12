@@ -37,7 +37,7 @@ This notebook is designed to be importable and can serve as a backend for other 
 ---
 
 **Note:**  
-The creator "k2e7" is the online alias of Sriparno Ganguly.
+The creator `k2e7` is the online alias of Sriparno Ganguly.
 
 ---
 © 2025 k2e7.   
